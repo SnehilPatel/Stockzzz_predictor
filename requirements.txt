@@ -3,3 +3,4 @@ fastapi==0.67.0
 plotly==5.1.0
 streamlit==0.85.1
 yfinance==0.1.63
+pystan==2.19.1.1
