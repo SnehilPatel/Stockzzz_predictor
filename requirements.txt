@@ -2,3 +2,4 @@ yfinance==0.1.63
 streamlit==0.85.1
 plotly==5.1.0
 fbprophet==0.7.1
+httptools==0.2.0
