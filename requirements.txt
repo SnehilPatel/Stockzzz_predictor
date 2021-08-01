@@ -4,3 +4,4 @@ plotly==5.1.0
 fbprophet==0.7.1
 cmdstanpy==0.9.5
 pystan==2.19.1.1
+prophet
