@@ -6,3 +6,4 @@ cmdstanpy==0.9.5
 pystan==2.19.1.1
 prophet
 conda
+localpip 
