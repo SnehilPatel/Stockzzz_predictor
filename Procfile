@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit stockzzzzz-by-snehil.py
+web: sh setup.sh && streamlit Stockzzzzz-by-snehil.py
